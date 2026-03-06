@@ -2,7 +2,7 @@
 
 Este repositório documenta a minha jornada intensiva de 5 semanas para o domínio de competências em **Software Developer in Test (SDET)** e **Engenharia de Software**. 
 
-Através do desenvolvimento do ecossistema **MariTech** (soluções tecnológicas para o setor marítimo), apliquei conceitos avançados de programação, automação e infraestrutura, focando-me particularmente nos requisitos técnicos da **Veeam Software**.
+Através do desenvolvimento do ecossistema **MariTech** (soluções tecnológicas para o setor marítimo), apliquei conceitos avançados de programação, automação e infraestrutura.
 
 ## 🎯 Objetivos do Treino
 * **Linguagens:** Domínio de C# (.NET 8) e automação utilitária com Python.
@@ -51,3 +51,4 @@ Cada semana contém o seu próprio guia de execução. No geral, é necessário:
 
 ---
 *Este repositório foi construído com foco na excelência técnica e na resolução de problemas reais de integridade de dados e automação.*
+
